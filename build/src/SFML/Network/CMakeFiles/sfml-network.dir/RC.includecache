@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/games/year1_game/build/src/SFML/Network/sfml-network.rc
+winresrc.h
+D:/games/year1_game/build/src/SFML/Network/winresrc.h
+

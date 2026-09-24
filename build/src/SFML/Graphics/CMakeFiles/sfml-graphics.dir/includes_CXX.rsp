@@ -1,0 +1,1 @@
+-ID:/games/year1_game/lib/SFML/include -ID:/games/year1_game/lib/SFML/src -isystem D:/games/year1_game/lib/SFML/extlibs/headers/stb_image -isystem D:/games/year1_game/lib/SFML/extlibs/headers/glad/include -isystem D:/games/year1_game/lib/SFML/extlibs/headers/freetype2
